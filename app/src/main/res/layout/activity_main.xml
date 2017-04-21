@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="sg.edu.rp.c347.p01_dailygoals.MainActivity">
+    tools:context="com.example.a15017381.p01dailygoals.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
